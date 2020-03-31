@@ -14,7 +14,7 @@
 
 E:\MYSQL我的文件安装位置
 
-![image](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331091336957.png)
+![img](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331091336957.png)
 
 ## SET2 创建my.ini
 
@@ -30,13 +30,13 @@ E:\MYSQL我的文件安装位置
 
 新建文本文件
 
-![image-20200331151815921](C:\Users\limfff\AppData\Roaming\Typora\typora-user-images\image-20200331151815921.png)
+![img](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331151815921.png)
 
 打开另存为
 
 ### 步骤二 改名my.ini 注意编码和保存类型
 
-![image-20200331151922858](C:\Users\limfff\AppData\Roaming\Typora\typora-user-images\image-20200331151922858.png)
+![img](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331151922858.png)
 
 ### 步骤三 my.ini写入配置
 
@@ -69,7 +69,7 @@ default-character-set=utf8
 
 **记住修改两处地址**
 
-![image-20200331152218838](C:\Users\limfff\AppData\Roaming\Typora\typora-user-images\image-20200331152218838.png)
+![img](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331152218838.png)
 
 ### 步骤四 配置环境变量
 
@@ -79,7 +79,7 @@ default-character-set=utf8
 新建变量名：MYSQL_HOME   变量值：E:\MYSQL\mysql-8.0.19-winx64 点击确定
 ```
 
-![image-20200331152459399](C:\Users\limfff\AppData\Roaming\Typora\typora-user-images\image-20200331152459399.png)
+![img](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331152459399.png)
 
 ##### 配置path环境变量
 
@@ -89,7 +89,7 @@ default-character-set=utf8
 ，也就是你安装位置下的bin文件夹。
 ```
 
-![image-20200331152703156](C:\Users\limfff\AppData\Roaming\Typora\typora-user-images\image-20200331152703156.png)
+![img](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331152703156.png)
 
 ## SET3 通过cmd 命令创建data文件夹
 
