@@ -14,7 +14,7 @@
 
 E:\MYSQL我的文件安装位置
 
-![image-20200331091336957](C:\Users\limfff\AppData\Roaming\Typora\typora-user-images\image-20200331091336957.png)
+![image](https://github.com/mrlisir/-zip-/blob/master/picture/image-20200331091336957.png)
 
 ## SET2 创建my.ini
 
